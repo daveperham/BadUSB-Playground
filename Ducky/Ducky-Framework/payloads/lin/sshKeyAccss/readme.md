@@ -1,2 +1,0 @@
-it adds your ssh key in the victim's machine
-NOTE THAT THIS SCRIPT IS FOR MAC, BUT WITHOUT ALMOST ANY CHANGE IT WILL WORK ON LINUX
